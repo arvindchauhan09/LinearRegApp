@@ -9,3 +9,4 @@ Point 7. Mention the commands in python.config
             option_settings:
               "aws:elasticbeanstalk:container:python":
                 WSGIPath: application:application
+---------------------------------------------------------------------------------------------------------------				
